@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # I AM X
 I AM X is a minimalist, modern and well-crafted responsive HTML5 resume template for any kind of creative professionals to show their education, experience, skills, and works history in a perfect way.
 
@@ -22,6 +21,3 @@ Use it freely but please do not republish, distribute or sell "as-is". Please cr
 Follow Ahmed: <a href="https://twitter.com/ahmedfaruk_me" target="_blank">Twitter</a>, <a href="https://www.facebook.com/ahmedfaruk.me" target="_blank">Facebook</a>, <a href="https://plus.google.com/u/0/114068300126923667161" target="_blank">Google+</a>
 
 <a href="http://trendytheme.net/" target="_blank">&copy; TrendyTheme </a>
-=======
-# chumheramis.github.io
->>>>>>> bec53ce48c1c30b5ee03f59e66fcb28f40fde50a
