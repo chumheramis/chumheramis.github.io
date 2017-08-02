@@ -514,10 +514,15 @@ SOCIAL ICON
 }
 
 .navbar-custom .navbar-brand {
-    font-weight: 700;
-    font-size: 18px;
-    span{
-      color: #52b3d9;
+    height: 100%;
+    background-color: #1A1E23;
+    h3{
+      font-size: 26px;
+      padding-top: 5px;
+      color: #fff;
+      span{
+        color: #52b3d9;
+      }
     }
 }
 
