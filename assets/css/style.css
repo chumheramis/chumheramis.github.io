@@ -654,17 +654,17 @@ Resume Timeline
   top: 0;
   float: left; }
 
-.timeline > li.timeline-inverted > .timeline-panel {
+.timeline > li.timeline-right > .timeline-panel {
   float: right;
   text-align: left; }
 
-.timeline > li.timeline-inverted > .timeline-panel:before {
+.timeline > li.timeline-right > .timeline-panel:before {
   right: auto;
   left: -15px;
   border-right-width: 15px;
   border-left-width: 0; }
 
-.timeline > li.timeline-inverted > .timeline-panel:after {
+.timeline > li.timeline-right > .timeline-panel:after {
   right: auto;
   left: -14px;
   border-right-width: 14px;
@@ -726,7 +726,7 @@ Resume Timeline
     color: #fff; }
 
   .timeline > li .timeline-panel::before,
-  .timeline > li.timeline-inverted .timeline-panel::before {
+  .timeline > li.timeline-right .timeline-panel::before {
     content: "";
     top: 25px;
     position: absolute;
@@ -744,7 +744,7 @@ Resume Timeline
   .timeline > li .timeline-panel:hover::before {
     border-left: 12px solid #68c3a3; }
 
-  .timeline > li.timeline-inverted .timeline-panel::before {
+  .timeline > li.timeline-right .timeline-panel::before {
     right: 100%;
     border-right: 12px solid #ECECEC;
     -webkit-transition: all 400ms;
@@ -752,12 +752,12 @@ Resume Timeline
     -o-transition: all 400ms;
     transition: all 400ms; }
 
-  .timeline > li.timeline-inverted .timeline-panel:hover::before {
+  .timeline > li.timeline-right .timeline-panel:hover::before {
     border-right: 12px solid #68c3a3;
     border-left: 0; }
 
   .timeline > li .timeline-panel::after,
-  .timeline > li.timeline-inverted .timeline-panel::after {
+  .timeline > li.timeline-right .timeline-panel::after {
     content: "";
     top: 25px;
     position: absolute;
@@ -776,7 +776,7 @@ Resume Timeline
   .timeline > li .timeline-panel:hover::after {
     border-left: 12px solid #68c3a3; }
 
-  .timeline > li.timeline-inverted .timeline-panel::after {
+  .timeline > li.timeline-right .timeline-panel::after {
     right: 100%;
     margin-right: -2px;
     border-right: 12px solid #FFFFFF;
@@ -785,7 +785,7 @@ Resume Timeline
     -o-transition: all 400ms;
     transition: all 400ms; }
 
-  .timeline > li.timeline-inverted .timeline-panel:hover::after {
+  .timeline > li.timeline-right .timeline-panel:hover::after {
     border-right: 12px solid #68c3a3;
     border-left: 0; }
 
